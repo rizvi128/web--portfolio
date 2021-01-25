@@ -1,0 +1,26 @@
+body{
+    font-family: 'Fraunces', serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.name{
+    color: orange;
+}
+.half-width{width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+
+}
+.half-width img{
+    width: 100%;
+}
+button{font-size: 20px;
+     width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    color: black;
+    background-color: orangered;
+}
